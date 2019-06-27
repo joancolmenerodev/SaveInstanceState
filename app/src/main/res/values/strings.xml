@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SaveInstanceState</string>
+    <string name="change_state">Change state</string>
+</resources>
